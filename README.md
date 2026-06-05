@@ -14,7 +14,7 @@ meaningfully and grow alongside an experienced team.
 
 **Database:** PostgreSQL, Prisma
 
-**Tools:** Git, GitHub, VS Code
+**Tools:** Git, GitHub, Docker, GitHub Actions
 
 ## 🚀 Projects
 
