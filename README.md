@@ -19,8 +19,12 @@ meaningfully and grow alongside an experienced team.
 ## 🚀 Projects
 
 ### [Budget & Expense Tracking Application](https://github.com/EJFieldy/budgeting-app)
-A full-stack web application for managing personal finances. Built with React, 
-TypeScript, Node.js, Express.js, Prisma and PostgreSQL.
+A full-stack web application for managing personal finances. Built with React,
+TypeScript, Node.js, Express.js, Prisma and PostgreSQL. Containerised with
+Docker and deployed with a CI/CD pipeline via GitHub Actions, with the frontend
+on Vercel and the backend on Render.
+
+**[View Live Application](https://budget-tracker-ef.vercel.app/)**
 
 ## 📬 Get In Touch
 
