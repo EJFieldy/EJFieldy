@@ -8,11 +8,11 @@ meaningfully and grow alongside an experienced team.
 
 ## 🛠 Tech Stack
 
-**Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
+**Frontend:** React, TypeScript, JavaScript, Python, HTML, CSS, Tailwind CSS
 
-**Backend:** Node.js, Express.js
+**Backend:** Node.js, Express.js, FastAPI
 
-**Database:** PostgreSQL, Prisma
+**Database:** PostgreSQL, Prisma, SQLAlchemy
 
 **Tools:** Git, GitHub, Docker, GitHub Actions
 
